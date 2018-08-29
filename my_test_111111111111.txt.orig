@@ -1,0 +1,6 @@
+this is my test two.
+<<<<<<< .merge_file_a19812
+this is my featuresss testA one.
+=======
+this is my featuresss testB one.
+>>>>>>> .merge_file_a23408
