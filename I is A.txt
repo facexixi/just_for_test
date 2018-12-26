@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 i is a;
 no hope;
+=======
+i is a bill
+>>>>>>> bill-test
